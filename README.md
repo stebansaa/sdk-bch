@@ -3,7 +3,6 @@
 SDK: https://www.npmjs.com/package/@koingfu.com/sdk-bch
 
 # **SmartBCH**
-- SDK: https://www.npmjs.com/package/@koingfu.com/sdk-bch
 - network id: 10000
 - Core/Factory address: 0xC0ab3bF9d799F7b020dCaB3A450ED141bfAe3A1e
 - Router/Periphery address: 0xb457805fedfc2467877dCfA153636C1D22aE6c6F
